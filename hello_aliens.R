@@ -1,0 +1,11 @@
+print(cat("Hello wonderful aliens!! Welcome to our earth like world...\n",
+      "Our world is divided into approximately ~200 countries\n",
+      "(195 to be exact), and I happen to live in the\n",
+      "United States of America.. With my little knowledge \n",
+      "of the world, I believe we have accomplished\n",
+      "very little to our humanity's potential and have a \n",
+      "long ways to go millenials ahead; I'm curious to learn \n",
+      "more about what your society has technologically \n",
+      "accomplished, and even though I'm not sure your societies\n",
+      "intellectual threshold or potential, I will try my\n",
+      "best to learn with the human constraints I have been provided..\n"))

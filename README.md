@@ -1,1 +1,3 @@
-# 36-350
+# 36350-R-project
+
+Homework question for a CMU class needing to utilize Git publicly. Please ignore...
